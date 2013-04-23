@@ -1,4 +1,4 @@
 LabelButtonDemo
 ===============
 
-How to usage UILabel and UIButton action/iboutlet
+How to usage UILabel and UIButton action/iboutlet(iOS)
